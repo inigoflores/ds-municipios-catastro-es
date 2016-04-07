@@ -1,0 +1,7 @@
+{
+  "require":
+  {
+    "phpoffice/phpexcel": "dev-develop",
+    "sunra/php-simple-html-dom-parser": "v1.5.0"
+  }
+}
