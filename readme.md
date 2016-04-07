@@ -102,9 +102,9 @@ Para descargar los datos, ejecutar lo siguiente en un shell:
 
 Proporciona un listado de todos los municipios de España, salvo aquellos que se encuentran en Alava, Vizcaya, Guipuzcoa y Navarra.
 
-Incluye tanto los códigos INE como los códigos MHAP. Estos últimos son especialmente útiles para tratar con organismos públicos como la AEAT.
+Incluye tanto los códigos INE como los códigos MHAP (Ministerio de Hacienda y Administraciones Públicas). Estos últimos son especialmente útiles para tratar con organismos públicos como la AEAT.
 
-Utiliza el Servicio [ConsultaMunicipioCodigos](http://ovc.catastro.meh.es/ovcservweb/OVCSWLocalizacionRC/OVCCallejeroCodigos.asmx/ConsultaMunicipioCodigos) ofrecido por el  del Catastro.
+Utiliza el Servicio [ConsultaMunicipioCodigos](http://ovc.catastro.meh.es/ovcservweb/OVCSWLocalizacionRC/OVCCallejeroCodigos.asmx?op=ConsultaMunicipioCodigos) ofrecido por el  del Catastro.
 
 
 
