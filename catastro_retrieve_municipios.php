@@ -4,16 +4,26 @@ $consulta_provinciero_endpoint = "http://ovc.catastro.meh.es/ovcservweb/OVCSWLoc
 $consulta_municipiero_endpoint = "http://ovc.catastro.meh.es/ovcservweb/OVCSWLocalizacionRC/OVCCallejeroCodigos.asmx/ConsultaMunicipioCodigos";
 
 // CLI Options
-$options = 0;
+$shortopts = "p";  // pretty_print
+$shortopts .= "u"; // unescaped_unicode
 
-if (in_array('--pretty_print',$argv)) {
-    $options|=JSON_PRETTY_PRINT;
+$longopts  = array(
+    "pretty_print",
+    "unescaped_unicode",
+);
+
+$options = getopt($shortopts,$longopts);
+
+// CLI Options
+$jsonOptions = 0;
+
+if (array_key_exists('pretty_print',$options) || array_key_exists('p',$options)) {
+    $jsonOptions|=JSON_PRETTY_PRINT;
 }
 
-if (in_array('--unescaped_unicode',$argv)) {
-    $options|=JSON_UNESCAPED_UNICODE;
+if (array_key_exists('unescaped_unicode',$options) || array_key_exists('u',$options)) {
+    $jsonOptions|=JSON_UNESCAPED_UNICODE;
 }
-
 
 // Iteramos las provincias y extraemos los municipios
 
@@ -32,7 +42,7 @@ for ($i=1;$i<=52;$i++) {
     $allMunicipios = array_merge($allMunicipios,$municipios->muni);
 }
 
-echo json_encode($allMunicipios, $options);
+echo json_encode($allMunicipios, $jsonOptions);
 
 
 
