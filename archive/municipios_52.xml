@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<consulta_municipiero xmlns="http://www.catastro.meh.es/">
+  <control>
+    <cumun>1</cumun>
+  </control>
+  <municipiero>
+    <muni>
+      <nm>MELILLA</nm>
+      <locat>
+        <cd>56</cd>
+        <cmc>101</cmc>
+      </locat>
+      <loine>
+        <cp>52</cp>
+        <cm>1</cm>
+      </loine>
+    </muni>
+  </municipiero>
+</consulta_municipiero>
