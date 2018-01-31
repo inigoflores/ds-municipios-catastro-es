@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <consulta_municipiero xmlns="http://www.catastro.meh.es/">
   <control>
-    <cumun>62</cumun>
+    <cumun>63</cumun>
   </control>
   <municipiero>
     <muni>
@@ -178,6 +178,17 @@
       <loine>
         <cp>36</cp>
         <cm>11</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>CERDEDO-COTOBADE</nm>
+      <locat>
+        <cd>36</cd>
+        <cmc>902</cmc>
+      </locat>
+      <loine>
+        <cp>36</cp>
+        <cm>902</cm>
       </loine>
     </muni>
     <muni>
