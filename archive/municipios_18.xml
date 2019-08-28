@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <consulta_municipiero xmlns="http://www.catastro.meh.es/">
   <control>
-    <cumun>172</cumun>
+    <cumun>174</cumun>
   </control>
   <municipiero>
     <muni>
@@ -522,7 +522,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>COGOLLOS VEGA</nm>
+      <nm>COGOLLOS DE LA VEGA</nm>
       <locat>
         <cd>18</cd>
         <cmc>51</cmc>
@@ -566,7 +566,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CUEVAS CAMPO</nm>
+      <nm>CUEVAS DEL CAMPO</nm>
       <locat>
         <cd>18</cd>
         <cmc>199</cmc>
@@ -764,6 +764,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>FORNES</nm>
+      <locat>
+        <cd>18</cd>
+        <cmc>79</cmc>
+      </locat>
+      <loine>
+        <cp>18</cp>
+        <cm>77</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>FREILA</nm>
       <locat>
         <cd>18</cd>
@@ -940,7 +951,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>HUETOR SANTILLAN</nm>
+      <nm>HUETOR DE SANTILLAN</nm>
       <locat>
         <cd>18</cd>
         <cmc>101</cmc>
@@ -1072,6 +1083,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>LA CALAHORRA</nm>
+      <locat>
+        <cd>18</cd>
+        <cmc>116</cmc>
+      </locat>
+      <loine>
+        <cp>18</cp>
+        <cm>114</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>LA MALAHA</nm>
       <locat>
         <cd>18</cd>
@@ -1113,17 +1135,6 @@
       <loine>
         <cp>18</cp>
         <cm>193</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>LACALAHORRA</nm>
-      <locat>
-        <cd>18</cd>
-        <cmc>116</cmc>
-      </locat>
-      <loine>
-        <cp>18</cp>
-        <cm>114</cm>
       </loine>
     </muni>
     <muni>
@@ -1182,7 +1193,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>LENTEJI</nm>
+      <nm>LENTEGI</nm>
       <locat>
         <cd>18</cd>
         <cmc>121</cmc>
@@ -1688,7 +1699,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>TORRE CARDELA</nm>
+      <nm>TORRE-CARDELA</nm>
       <locat>
         <cd>18</cd>
         <cmc>181</cmc>
@@ -1696,6 +1707,17 @@
       <loine>
         <cp>18</cp>
         <cm>178</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>TORRENUEVA COSTA</nm>
+      <locat>
+        <cd>18</cd>
+        <cmc>205</cmc>
+      </locat>
+      <loine>
+        <cp>18</cp>
+        <cm>916</cm>
       </loine>
     </muni>
     <muni>

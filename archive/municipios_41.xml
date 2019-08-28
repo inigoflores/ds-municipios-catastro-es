@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <consulta_municipiero xmlns="http://www.catastro.meh.es/">
   <control>
-    <cumun>105</cumun>
+    <cumun>106</cumun>
   </control>
   <municipiero>
     <muni>
@@ -431,6 +431,17 @@
       <loine>
         <cp>41</cp>
         <cm>57</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>EL PALMAR DE TROYA</nm>
+      <locat>
+        <cd>41</cd>
+        <cmc>106</cmc>
+      </locat>
+      <loine>
+        <cp>41</cp>
+        <cm>904</cm>
       </loine>
     </muni>
     <muni>

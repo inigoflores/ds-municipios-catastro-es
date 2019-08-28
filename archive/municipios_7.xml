@@ -412,7 +412,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>MAO/MAHON</nm>
+      <nm>MAO-MAHON</nm>
       <locat>
         <cd>7</cd>
         <cmc>32</cmc>
@@ -467,7 +467,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PALMA DE MALLORCA</nm>
+      <nm>PALMA</nm>
       <locat>
         <cd>7</cd>
         <cmc>40</cmc>
@@ -577,7 +577,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANT LLORENC DES CARDASSAR</nm>
+      <nm>SANT LLORENÇ DES CARDASSAR</nm>
       <locat>
         <cd>7</cd>
         <cmc>51</cmc>
@@ -731,7 +731,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILAFRANCA BONANY</nm>
+      <nm>VILAFRANCA DE BONANY</nm>
       <locat>
         <cd>7</cd>
         <cmc>65</cmc>

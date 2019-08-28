@@ -313,17 +313,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>AVELLANES I SANTA LINYA</nm>
-      <locat>
-        <cd>25</cd>
-        <cmc>45</cmc>
-      </locat>
-      <loine>
-        <cp>25</cp>
-        <cm>37</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>BAIX PALLARS</nm>
       <locat>
         <cd>25</cd>
@@ -390,7 +379,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BELL.LLOC D'URGELL</nm>
+      <nm>BELL-LLOC D'URGELL</nm>
       <locat>
         <cd>25</cd>
         <cmc>57</cmc>
@@ -423,7 +412,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BELLMUNT</nm>
+      <nm>BELLMUNT D'URGELL</nm>
       <locat>
         <cd>25</cd>
         <cmc>58</cmc>
@@ -984,7 +973,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>GIMENELLS I PLA DE LA FONT</nm>
+      <nm>GIMENELLS I EL PLA DE LA FONT</nm>
       <locat>
         <cd>25</cd>
         <cmc>321</cmc>
@@ -1028,7 +1017,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>GRANYENA DE GARRIGUES</nm>
+      <nm>GRANYENA DE LES GARRIGUES</nm>
       <locat>
         <cd>25</cd>
         <cmc>134</cmc>
@@ -1347,6 +1336,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>LA VALL DE BOI</nm>
+      <locat>
+        <cd>25</cd>
+        <cmc>52</cmc>
+      </locat>
+      <loine>
+        <cp>25</cp>
+        <cm>43</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>LA VANSA I FORNOLS</nm>
       <locat>
         <cd>25</cd>
@@ -1366,6 +1366,17 @@
       <loine>
         <cp>25</cp>
         <cm>121</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>LES AVELLANES I SANTA LINYA</nm>
+      <locat>
+        <cd>25</cd>
+        <cmc>45</cmc>
+      </locat>
+      <loine>
+        <cp>25</cp>
+        <cm>37</cm>
       </loine>
     </muni>
     <muni>
@@ -2367,17 +2378,6 @@
       <loine>
         <cp>25</cp>
         <cm>234</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>VALL DE BOI</nm>
-      <locat>
-        <cd>25</cd>
-        <cmc>52</cmc>
-      </locat>
-      <loine>
-        <cp>25</cp>
-        <cm>43</cm>
       </loine>
     </muni>
     <muni>

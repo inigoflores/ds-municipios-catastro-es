@@ -38,6 +38,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>A ILLA DE AROUSA</nm>
+      <locat>
+        <cd>36</cd>
+        <cmc>62</cmc>
+      </locat>
+      <loine>
+        <cp>36</cp>
+        <cm>901</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>A LAMA</nm>
       <locat>
         <cd>36</cd>
@@ -203,6 +214,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>COVELO</nm>
+      <locat>
+        <cd>36</cd>
+        <cmc>13</cmc>
+      </locat>
+      <loine>
+        <cp>36</cp>
+        <cm>13</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>CRECENTE</nm>
       <locat>
         <cd>36</cd>
@@ -266,17 +288,6 @@
       <loine>
         <cp>36</cp>
         <cm>21</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>ILLA DE AROUSA</nm>
-      <locat>
-        <cd>36</cd>
-        <cmc>62</cmc>
-      </locat>
-      <loine>
-        <cp>36</cp>
-        <cm>901</cm>
       </loine>
     </muni>
     <muni>
@@ -390,17 +401,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>O COVELO</nm>
-      <locat>
-        <cd>36</cd>
-        <cmc>13</cmc>
-      </locat>
-      <loine>
-        <cp>36</cp>
-        <cm>13</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>O GROVE</nm>
       <locat>
         <cd>36</cd>
@@ -467,7 +467,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PONTE-CALDELAS</nm>
+      <nm>PONTE CALDELAS</nm>
       <locat>
         <cd>36</cd>
         <cmc>43</cmc>

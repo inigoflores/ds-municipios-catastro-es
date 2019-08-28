@@ -148,7 +148,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ALDEHUELA DE CODONAL</nm>
+      <nm>ALDEHUELA DEL CODONAL</nm>
       <locat>
         <cd>40</cd>
         <cmc>15</cmc>
@@ -368,7 +368,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CALABAZAS</nm>
+      <nm>CALABAZAS DE FUENTIDUEÑA</nm>
       <locat>
         <cd>40</cd>
         <cmc>41</cmc>
@@ -409,6 +409,17 @@
       <loine>
         <cp>40</cp>
         <cm>41</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>CARABIAS</nm>
+      <locat>
+        <cd>40</cd>
+        <cmc>191</cmc>
+      </locat>
+      <loine>
+        <cp>40</cp>
+        <cm>161</cm>
       </loine>
     </muni>
     <muni>
@@ -621,7 +632,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>COZUELOS FUENTIDUEÑA</nm>
+      <nm>COZUELOS DE FUENTIDUEÑA</nm>
       <locat>
         <cd>40</cd>
         <cmc>70</cmc>
@@ -654,7 +665,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CUEVAS PROVA</nm>
+      <nm>CUEVAS DE PROVANCO</nm>
       <locat>
         <cd>40</cd>
         <cmc>74</cmc>
@@ -1226,7 +1237,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>MELQUE</nm>
+      <nm>MELQUE DE CERCOS</nm>
       <locat>
         <cd>40</cd>
         <cmc>146</cmc>
@@ -1586,17 +1597,6 @@
       <loine>
         <cp>40</cp>
         <cm>160</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>PRADALES</nm>
-      <locat>
-        <cd>40</cd>
-        <cmc>191</cmc>
-      </locat>
-      <loine>
-        <cp>40</cp>
-        <cm>161</cm>
       </loine>
     </muni>
     <muni>
@@ -2238,7 +2238,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLAVERDE DE ISCAR Y CASTREJO</nm>
+      <nm>VILLAVERDE DE ISCAR</nm>
       <locat>
         <cd>40</cd>
         <cmc>268</cmc>
@@ -2249,7 +2249,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLAVERDE DE MONTEJO Y VILLAV</nm>
+      <nm>VILLAVERDE DE MONTEJO</nm>
       <locat>
         <cd>40</cd>
         <cmc>269</cmc>

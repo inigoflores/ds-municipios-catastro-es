@@ -181,7 +181,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BERZOSA DE LOZOYA</nm>
+      <nm>BERZOSA DEL LOZOYA</nm>
       <locat>
         <cd>28</cd>
         <cmc>21</cmc>
@@ -412,6 +412,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>COLLADO MEDIANO</nm>
+      <locat>
+        <cd>28</cd>
+        <cmc>46</cmc>
+      </locat>
+      <loine>
+        <cp>28</cp>
+        <cm>46</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>COLLADO VILLALBA</nm>
       <locat>
         <cd>28</cd>
@@ -420,17 +431,6 @@
       <loine>
         <cp>28</cp>
         <cm>47</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>COLLADO-MEDIANO</nm>
-      <locat>
-        <cd>28</cd>
-        <cmc>46</cmc>
-      </locat>
-      <loine>
-        <cp>28</cp>
-        <cm>46</cm>
       </loine>
     </muni>
     <muni>
@@ -610,7 +610,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FRESNEDILLAS</nm>
+      <nm>FRESNEDILLAS DE LA OLIVA</nm>
       <locat>
         <cd>28</cd>
         <cmc>56</cmc>
@@ -687,7 +687,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>GARGANTILLA DE LOZOYA</nm>
+      <nm>GARGANTILLA DEL LOZOYA Y PINIL</nm>
       <locat>
         <cd>28</cd>
         <cmc>63</cmc>
@@ -1138,7 +1138,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ORUSCO</nm>
+      <nm>ORUSCO DE TAJUÑA</nm>
       <locat>
         <cd>28</cd>
         <cmc>102</cmc>
@@ -1248,7 +1248,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PIÑUECAR</nm>
+      <nm>PIÑUECAR-GANDULLAS</nm>
       <locat>
         <cd>28</cd>
         <cmc>114</cmc>
@@ -1952,7 +1952,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLAVIEJA DE LOZOYA</nm>
+      <nm>VILLAVIEJA DEL LOZOYA</nm>
       <locat>
         <cd>28</cd>
         <cmc>182</cmc>

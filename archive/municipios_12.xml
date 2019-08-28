@@ -71,7 +71,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ALMAZORA / ALMASSORA</nm>
+      <nm>ALMASSORA</nm>
       <locat>
         <cd>12</cd>
         <cmc>9</cmc>
@@ -101,17 +101,6 @@
       <loine>
         <cp>12</cp>
         <cm>11</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>ALQUERIAS DEL NIÑO PERDIDO</nm>
-      <locat>
-        <cd>12</cd>
-        <cmc>143</cmc>
-      </locat>
-      <loine>
-        <cp>12</cp>
-        <cm>901</cm>
       </loine>
     </muni>
     <muni>
@@ -247,7 +236,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BENASAL</nm>
+      <nm>BENASSAL</nm>
       <locat>
         <cd>12</cd>
         <cmc>26</cmc>
@@ -442,17 +431,6 @@
       <loine>
         <cp>12</cp>
         <cm>44</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>CHERT / XERT</nm>
-      <locat>
-        <cd>12</cd>
-        <cmc>52</cmc>
-      </locat>
-      <loine>
-        <cp>12</cp>
-        <cm>52</cm>
       </loine>
     </muni>
     <muni>
@@ -731,7 +709,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>LA MATA</nm>
+      <nm>LA MATA DE MORELLA</nm>
       <locat>
         <cd>12</cd>
         <cmc>75</cmc>
@@ -819,7 +797,18 @@
       </loine>
     </muni>
     <muni>
-      <nm>LUCENA DEL CID</nm>
+      <nm>LES ALQUERIES/ALQUERIAS DEL NI</nm>
+      <locat>
+        <cd>12</cd>
+        <cmc>143</cmc>
+      </locat>
+      <loine>
+        <cp>12</cp>
+        <cm>901</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>LLUCENA/LUCENA DEL CID</nm>
       <locat>
         <cd>12</cd>
         <cmc>72</cmc>
@@ -1116,7 +1105,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SIERRA-ENGARCERAN</nm>
+      <nm>SIERRA ENGARCERAN</nm>
       <locat>
         <cd>12</cd>
         <cmc>105</cmc>
@@ -1149,7 +1138,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SUERAS</nm>
+      <nm>SUERAS/SUERA</nm>
       <locat>
         <cd>12</cd>
         <cmc>108</cmc>
@@ -1446,7 +1435,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VISTABELLA DEL MAESTRAZGO</nm>
+      <nm>VISTABELLA DEL MAESTRAT</nm>
       <locat>
         <cd>12</cd>
         <cmc>139</cmc>
@@ -1465,6 +1454,17 @@
       <loine>
         <cp>12</cp>
         <cm>140</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>XERT</nm>
+      <locat>
+        <cd>12</cd>
+        <cmc>52</cmc>
+      </locat>
+      <loine>
+        <cp>12</cp>
+        <cm>52</cm>
       </loine>
     </muni>
     <muni>

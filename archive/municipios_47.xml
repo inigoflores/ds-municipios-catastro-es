@@ -203,7 +203,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BERRUECES DE CAMPOS</nm>
+      <nm>BERRUECES</nm>
       <locat>
         <cd>47</cd>
         <cmc>20</cmc>
@@ -412,7 +412,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CASTRILLO TEJERIEGO</nm>
+      <nm>CASTRILLO-TEJERIEGO</nm>
       <locat>
         <cd>47</cd>
         <cmc>40</cmc>
@@ -489,7 +489,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CASTROPONCE DE VALDERADUEY</nm>
+      <nm>CASTROPONCE</nm>
       <locat>
         <cd>47</cd>
         <cmc>47</cmc>
@@ -555,6 +555,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>CISTERNIGA</nm>
+      <locat>
+        <cd>47</cd>
+        <cmc>53</cmc>
+      </locat>
+      <loine>
+        <cp>47</cp>
+        <cm>52</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>COGECES DE ISCAR</nm>
       <locat>
         <cd>47</cd>
@@ -577,7 +588,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CORCOS DEL VALLE</nm>
+      <nm>CORCOS</nm>
       <locat>
         <cd>47</cd>
         <cmc>56</cmc>
@@ -731,7 +742,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FUENTE OLMEDO</nm>
+      <nm>FUENTE-OLMEDO</nm>
       <locat>
         <cd>47</cd>
         <cmc>69</cmc>
@@ -805,17 +816,6 @@
       <loine>
         <cp>47</cp>
         <cm>75</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>LA CISTERNIGA</nm>
-      <locat>
-        <cd>47</cd>
-        <cmc>53</cmc>
-      </locat>
-      <loine>
-        <cp>47</cp>
-        <cm>52</cm>
       </loine>
     </muni>
     <muni>
@@ -1138,7 +1138,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>MURIEL DE ZAPARDIEL</nm>
+      <nm>MURIEL</nm>
       <locat>
         <cd>47</cd>
         <cmc>101</cmc>
@@ -1545,7 +1545,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SAN LLORENTE DEL VALLE</nm>
+      <nm>SAN LLORENTE</nm>
       <locat>
         <cd>47</cd>
         <cmc>144</cmc>
@@ -2183,7 +2183,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLAFUERTE DE ESGUEVA</nm>
+      <nm>VILLAFUERTE</nm>
       <locat>
         <cd>47</cd>
         <cmc>207</cmc>
@@ -2403,7 +2403,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLAVAQUERIN DE CERRATO</nm>
+      <nm>VILLAVAQUERIN</nm>
       <locat>
         <cd>47</cd>
         <cmc>227</cmc>
@@ -2447,7 +2447,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILORIA DEL HENAR</nm>
+      <nm>VILORIA</nm>
       <locat>
         <cd>47</cd>
         <cmc>195</cmc>

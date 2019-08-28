@@ -280,7 +280,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ARABAYONA</nm>
+      <nm>ARABAYONA DE MOGICA</nm>
       <locat>
         <cd>37</cd>
         <cmc>31</cmc>
@@ -841,7 +841,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CESPEDOSA</nm>
+      <nm>CESPEDOSA DE TORMES</nm>
       <locat>
         <cd>37</cd>
         <cmc>103</cmc>
@@ -852,7 +852,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CHAGARCIA-MEDIANERO</nm>
+      <nm>CHAGARCIA MEDIANERO</nm>
       <locat>
         <cd>37</cd>
         <cmc>114</cmc>
@@ -885,7 +885,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CIUDAD-RODRIGO</nm>
+      <nm>CIUDAD RODRIGO</nm>
       <locat>
         <cd>37</cd>
         <cmc>107</cmc>
@@ -1281,7 +1281,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FRESNO-ALHANDIGA</nm>
+      <nm>FRESNO ALHANDIGA</nm>
       <locat>
         <cd>37</cd>
         <cmc>134</cmc>
@@ -1512,7 +1512,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>HERGUIJUELA DE CIUDAD-RODRIGO</nm>
+      <nm>HERGUIJUELA DE CIUDAD RODRIGO</nm>
       <locat>
         <cd>37</cd>
         <cmc>158</cmc>
@@ -1567,7 +1567,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>HORCAJO-MEDIANERO</nm>
+      <nm>HORCAJO MEDIANERO</nm>
       <locat>
         <cd>37</cd>
         <cmc>163</cmc>
@@ -1886,6 +1886,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>LA ZARZA DE PUMAREDA</nm>
+      <locat>
+        <cd>37</cd>
+        <cmc>384</cmc>
+      </locat>
+      <loine>
+        <cp>37</cp>
+        <cm>381</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>LAGUNILLA</nm>
       <locat>
         <cd>37</cd>
@@ -2095,7 +2106,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>MEMBRIBE</nm>
+      <nm>MEMBRIBE DE LA SIERRA</nm>
       <locat>
         <cd>37</cd>
         <cmc>190</cmc>
@@ -2238,7 +2249,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>MONTERRUBIO DE LA ARMUÑA</nm>
+      <nm>MONTERRUBIO DE ARMUÑA</nm>
       <locat>
         <cd>37</cd>
         <cmc>203</cmc>
@@ -2337,7 +2348,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>NAVA BEJAR</nm>
+      <nm>NAVA DE BEJAR</nm>
       <locat>
         <cd>37</cd>
         <cmc>214</cmc>
@@ -2645,7 +2656,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PEREÑA</nm>
+      <nm>PEREÑA DE LA RIBERA</nm>
       <locat>
         <cd>37</cd>
         <cmc>252</cmc>
@@ -2953,7 +2964,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SAN CRISTOBAL</nm>
+      <nm>SAN CRISTOBAL DE LA CUESTA</nm>
       <locat>
         <cd>37</cd>
         <cmc>280</cmc>
@@ -2997,17 +3008,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>SAN MIGUEL DE ROBLEDO</nm>
-      <locat>
-        <cd>37</cd>
-        <cmc>36</cmc>
-      </locat>
-      <loine>
-        <cp>37</cp>
-        <cm>36</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>SAN MIGUEL DE VALERO</nm>
       <locat>
         <cd>37</cd>
@@ -3016,6 +3016,17 @@
       <loine>
         <cp>37</cp>
         <cm>287</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>SAN MIGUEL DEL ROBLEDO</nm>
+      <locat>
+        <cd>37</cd>
+        <cmc>36</cmc>
+      </locat>
+      <loine>
+        <cp>37</cp>
+        <cm>36</cm>
       </loine>
     </muni>
     <muni>
@@ -3767,7 +3778,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLARINO</nm>
+      <nm>VILLARINO DE LOS AIRES</nm>
       <locat>
         <cd>37</cd>
         <cmc>367</cmc>
@@ -3962,17 +3973,6 @@
       <loine>
         <cp>37</cp>
         <cm>380</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>ZARZA DE PUMAREDA</nm>
-      <locat>
-        <cd>37</cd>
-        <cmc>384</cmc>
-      </locat>
-      <loine>
-        <cp>37</cp>
-        <cm>381</cm>
       </loine>
     </muni>
     <muni>

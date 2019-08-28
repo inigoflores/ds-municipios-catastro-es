@@ -489,7 +489,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BELVER</nm>
+      <nm>BELVER DE CINCA</nm>
       <locat>
         <cd>22</cd>
         <cmc>67</cmc>
@@ -918,6 +918,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>EL PUEYO DE ARAGUAS</nm>
+      <locat>
+        <cd>22</cd>
+        <cmc>261</cmc>
+      </locat>
+      <loine>
+        <cp>22</cp>
+        <cm>190</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>ESPLUS</nm>
       <locat>
         <cd>22</cd>
@@ -1006,7 +1017,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FORADADA DE TOSCAR</nm>
+      <nm>FORADADA DEL TOSCAR</nm>
       <locat>
         <cd>22</cd>
         <cmc>154</cmc>
@@ -1270,6 +1281,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>LAS PEÑAS DE RIGLOS</nm>
+      <locat>
+        <cd>22</cd>
+        <cmc>270</cmc>
+      </locat>
+      <loine>
+        <cp>22</cp>
+        <cm>173</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>LASCELLAS-PONZANO</nm>
       <locat>
         <cd>22</cd>
@@ -1457,7 +1479,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>OSSO</nm>
+      <nm>OSSO DE CINCA</nm>
       <locat>
         <cd>22</cd>
         <cmc>235</cmc>
@@ -1556,17 +1578,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>PEÑAS DE RIGLOS</nm>
-      <locat>
-        <cd>22</cd>
-        <cmc>270</cmc>
-      </locat>
-      <loine>
-        <cp>22</cp>
-        <cm>173</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>PIRACES</nm>
       <locat>
         <cd>22</cd>
@@ -1622,7 +1633,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PUENTE LA REINA</nm>
+      <nm>PUENTE LA REINA DE JACA</nm>
       <locat>
         <cd>22</cd>
         <cmc>288</cmc>
@@ -1641,17 +1652,6 @@
       <loine>
         <cp>22</cp>
         <cm>189</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>PUEYO DE ARAGUAS</nm>
-      <locat>
-        <cd>22</cd>
-        <cmc>261</cmc>
-      </locat>
-      <loine>
-        <cp>22</cp>
-        <cm>190</cm>
       </loine>
     </muni>
     <muni>
@@ -1820,17 +1820,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANTA LIESTRA Y SAN QUILEZ</nm>
-      <locat>
-        <cd>22</cd>
-        <cmc>291</cmc>
-      </locat>
-      <loine>
-        <cp>22</cp>
-        <cm>212</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>SANTA MARIA DE DULCIS</nm>
       <locat>
         <cd>22</cd>
@@ -1839,6 +1828,17 @@
       <loine>
         <cp>22</cp>
         <cm>906</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>SANTALIESTRA Y SAN QUILEZ</nm>
+      <locat>
+        <cd>22</cd>
+        <cmc>291</cmc>
+      </locat>
+      <loine>
+        <cp>22</cp>
+        <cm>212</cm>
       </loine>
     </muni>
     <muni>
@@ -1996,7 +1996,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>TORLA</nm>
+      <nm>TORLA-ORDESA</nm>
       <locat>
         <cd>22</cd>
         <cmc>321</cmc>
@@ -2084,7 +2084,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VALLE DE BARDAGI</nm>
+      <nm>VALLE DE BARDAJI</nm>
       <locat>
         <cd>22</cd>
         <cmc>337</cmc>

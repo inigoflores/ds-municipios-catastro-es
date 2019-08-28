@@ -962,7 +962,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FIGARO I MONTMANY</nm>
+      <nm>FIGARO-MONTMANY</nm>
       <locat>
         <cd>8</cd>
         <cmc>133</cmc>
@@ -1402,7 +1402,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>LLIÇA D' AMUNT</nm>
+      <nm>LLIÇA D'AMUNT</nm>
       <locat>
         <cd>8</cd>
         <cmc>106</cmc>
@@ -1919,7 +1919,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PARETS DE VALLES</nm>
+      <nm>PARETS DEL VALLES</nm>
       <locat>
         <cd>8</cd>
         <cmc>158</cmc>
@@ -2293,17 +2293,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANT CUGAT DE SESGARRIGUES</nm>
-      <locat>
-        <cd>8</cd>
-        <cmc>205</cmc>
-      </locat>
-      <loine>
-        <cp>8</cp>
-        <cm>206</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>SANT CUGAT DEL VALLES</nm>
       <locat>
         <cd>8</cd>
@@ -2312,6 +2301,17 @@
       <loine>
         <cp>8</cp>
         <cm>205</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>SANT CUGAT SESGARRIGUES</nm>
+      <locat>
+        <cd>8</cd>
+        <cmc>205</cmc>
+      </locat>
+      <loine>
+        <cp>8</cp>
+        <cm>206</cm>
       </loine>
     </muni>
     <muni>
@@ -2480,7 +2480,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANT LLORENÇ D' HORTONS</nm>
+      <nm>SANT LLORENÇ D'HORTONS</nm>
       <locat>
         <cd>8</cd>
         <cmc>220</cmc>
@@ -2524,17 +2524,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANT MARTI DE SESGUEIOLES</nm>
-      <locat>
-        <cd>8</cd>
-        <cmc>228</cmc>
-      </locat>
-      <loine>
-        <cp>8</cp>
-        <cm>228</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>SANT MARTI DE TOUS</nm>
       <locat>
         <cd>8</cd>
@@ -2554,6 +2543,17 @@
       <loine>
         <cp>8</cp>
         <cm>227</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>SANT MARTI SESGUEIOLES</nm>
+      <locat>
+        <cd>8</cd>
+        <cmc>228</cmc>
+      </locat>
+      <loine>
+        <cp>8</cp>
+        <cm>228</cm>
       </loine>
     </muni>
     <muni>
@@ -2656,17 +2656,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANT QUIRZE DE SAFAJA</nm>
-      <locat>
-        <cd>8</cd>
-        <cmc>239</cmc>
-      </locat>
-      <loine>
-        <cp>8</cp>
-        <cm>239</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>SANT QUIRZE DEL VALLES</nm>
       <locat>
         <cd>8</cd>
@@ -2675,6 +2664,17 @@
       <loine>
         <cp>8</cp>
         <cm>238</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>SANT QUIRZE SAFAJA</nm>
+      <locat>
+        <cd>8</cd>
+        <cmc>239</cmc>
+      </locat>
+      <loine>
+        <cp>8</cp>
+        <cm>239</cm>
       </loine>
     </muni>
     <muni>
@@ -2689,7 +2689,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANT SADURNI D'OSORMOR</nm>
+      <nm>SANT SADURNI D'OSORMORT</nm>
       <locat>
         <cd>8</cd>
         <cmc>241</cmc>

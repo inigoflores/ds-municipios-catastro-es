@@ -104,17 +104,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>GUIA</nm>
-      <locat>
-        <cd>35</cd>
-        <cmc>10</cmc>
-      </locat>
-      <loine>
-        <cp>35</cp>
-        <cm>23</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>HARIA</nm>
       <locat>
         <cd>35</cd>
@@ -203,7 +192,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PUERTO ROSARIO</nm>
+      <nm>PUERTO DEL ROSARIO</nm>
       <locat>
         <cd>35</cd>
         <cmc>18</cmc>
@@ -214,7 +203,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>S.BARTOLOME LANZAROTE</nm>
+      <nm>SAN BARTOLOME</nm>
       <locat>
         <cd>35</cd>
         <cmc>19</cmc>
@@ -225,7 +214,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>S.BARTOLOME TIRAJANA</nm>
+      <nm>SAN BARTOLOME DE TIRAJANA</nm>
       <locat>
         <cd>35</cd>
         <cmc>20</cmc>
@@ -255,6 +244,17 @@
       <loine>
         <cp>35</cp>
         <cm>22</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>SANTA MARIA DE GUIA DE GRAN CA</nm>
+      <locat>
+        <cd>35</cd>
+        <cmc>10</cmc>
+      </locat>
+      <loine>
+        <cp>35</cp>
+        <cm>23</cm>
       </loine>
     </muni>
     <muni>
@@ -346,7 +346,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VALSEQUILLO</nm>
+      <nm>VALSEQUILLO DE GRAN CANARIA</nm>
       <locat>
         <cd>35</cd>
         <cmc>31</cmc>
@@ -357,7 +357,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VEGA S.MATEO</nm>
+      <nm>VEGA DE SAN MATEO</nm>
       <locat>
         <cd>35</cd>
         <cmc>33</cmc>

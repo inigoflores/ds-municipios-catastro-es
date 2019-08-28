@@ -533,17 +533,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>CABIA</nm>
-      <locat>
-        <cd>9</cd>
-        <cmc>65</cmc>
-      </locat>
-      <loine>
-        <cp>9</cp>
-        <cm>63</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>CALERUEGA</nm>
       <locat>
         <cd>9</cd>
@@ -654,7 +643,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CARDEÑUELA DE RIO PICO</nm>
+      <nm>CARDEÑUELA RIOPICO</nm>
       <locat>
         <cd>9</cd>
         <cmc>78</cmc>
@@ -797,6 +786,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>CAVIA</nm>
+      <locat>
+        <cd>9</cd>
+        <cmc>65</cmc>
+      </locat>
+      <loine>
+        <cp>9</cp>
+        <cm>63</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>CAYUELA</nm>
       <locat>
         <cd>9</cd>
@@ -830,7 +830,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CEREZO DE RIOTIRON</nm>
+      <nm>CEREZO DE RIO TIRON</nm>
       <locat>
         <cd>9</cd>
         <cmc>101</cmc>
@@ -1072,7 +1072,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FRESNEDA DE LA SIERRA</nm>
+      <nm>FRESNEDA DE LA SIERRA TIRON</nm>
       <locat>
         <cd>9</cd>
         <cmc>132</cmc>
@@ -1105,7 +1105,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FRESNO DE RIOTIRON</nm>
+      <nm>FRESNO DE RIO TIRON</nm>
       <locat>
         <cd>9</cd>
         <cmc>135</cmc>
@@ -1259,7 +1259,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>GUMIEL DEL MERCADO</nm>
+      <nm>GUMIEL DE MERCADO</nm>
       <locat>
         <cd>9</cd>
         <cmc>155</cmc>
@@ -1611,7 +1611,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>LA REVILLA</nm>
+      <nm>LA REVILLA Y AHEDO</nm>
       <locat>
         <cd>9</cd>
         <cmc>323</cmc>
@@ -1864,18 +1864,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>MERINDAD CAST. VIE VILLARCAYO</nm>
-      <locat>
-        <cd>9</cd>
-        <cmc>473</cmc>
-      </locat>
-      <loine>
-        <cp>9</cp>
-        <cm>903</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>MERINDAD DE CUESTA URRIA</nm>
+      <nm>MERINDAD DE CUESTA-URRIA</nm>
       <locat>
         <cd>9</cd>
         <cmc>218</cmc>
@@ -2128,7 +2117,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ORBANEJA-RIO PICO</nm>
+      <nm>ORBANEJA RIOPICO</nm>
       <locat>
         <cd>9</cd>
         <cmc>248</cmc>
@@ -2260,7 +2249,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PARTIDO DE LA SIERRA DE TOBALI</nm>
+      <nm>PARTIDO DE LA SIERRA EN TOBALI</nm>
       <locat>
         <cd>9</cd>
         <cmc>263</cmc>
@@ -2282,7 +2271,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PEDROSA DE RIO-URBEL</nm>
+      <nm>PEDROSA DE RIO URBEL</nm>
       <locat>
         <cd>9</cd>
         <cmc>267</cmc>
@@ -2359,7 +2348,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PINEDA-TRASMONTE</nm>
+      <nm>PINEDA TRASMONTE</nm>
       <locat>
         <cd>9</cd>
         <cmc>275</cmc>
@@ -2392,7 +2381,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PINILLA-TRASMONTE</nm>
+      <nm>PINILLA TRASMONTE</nm>
       <locat>
         <cd>9</cd>
         <cmc>278</cmc>
@@ -2557,7 +2546,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>QUINTANILLA DEL AGUA-TORDUELES</nm>
+      <nm>QUINTANILLA DEL AGUA Y TORDUEL</nm>
       <locat>
         <cd>9</cd>
         <cmc>303</cmc>
@@ -2579,7 +2568,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>QUINTANILLA SAN-GARCIA</nm>
+      <nm>QUINTANILLA SAN GARCIA</nm>
       <locat>
         <cd>9</cd>
         <cmc>308</cmc>
@@ -2590,7 +2579,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>QUINTANILLA-VIVAR</nm>
+      <nm>QUINTANILLA VIVAR</nm>
       <locat>
         <cd>9</cd>
         <cmc>311</cmc>
@@ -2711,7 +2700,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>REVILLA-VALLEJERA</nm>
+      <nm>REVILLA VALLEJERA</nm>
       <locat>
         <cd>9</cd>
         <cmc>327</cmc>
@@ -2986,17 +2975,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANTA MARIA DE MERCADILLO</nm>
-      <locat>
-        <cd>9</cd>
-        <cmc>363</cmc>
-      </locat>
-      <loine>
-        <cp>9</cp>
-        <cm>352</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>SANTA MARIA DEL CAMPO</nm>
       <locat>
         <cd>9</cd>
@@ -3019,7 +2997,18 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANTA MARIA-RIBARREDONDA</nm>
+      <nm>SANTA MARIA DEL MERCADILLO</nm>
+      <locat>
+        <cd>9</cd>
+        <cmc>363</cmc>
+      </locat>
+      <loine>
+        <cp>9</cp>
+        <cm>352</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>SANTA MARIA RIVARREDONDA</nm>
       <locat>
         <cd>9</cd>
         <cmc>364</cmc>
@@ -3217,7 +3206,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>TINIEBLAS</nm>
+      <nm>TINIEBLAS DE LA SIERRA</nm>
       <locat>
         <cd>9</cd>
         <cmc>393</cmc>
@@ -3558,7 +3547,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VALLEGERA</nm>
+      <nm>VALLEJERA</nm>
       <locat>
         <cd>9</cd>
         <cmc>429</cmc>
@@ -3690,7 +3679,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLAGONZALO-PEDERNALES</nm>
+      <nm>VILLAGONZALO PEDERNALES</nm>
       <locat>
         <cd>9</cd>
         <cmc>447</cmc>
@@ -3899,6 +3888,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>VILLARCAYO DE MERINDAD DE CAST</nm>
+      <locat>
+        <cd>9</cd>
+        <cmc>473</cmc>
+      </locat>
+      <loine>
+        <cp>9</cp>
+        <cm>903</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>VILLARIEZO</nm>
       <locat>
         <cd>9</cd>
@@ -4053,7 +4053,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ZARZOSA DE RIOPISUERGA</nm>
+      <nm>ZARZOSA DE RIO PISUERGA</nm>
       <locat>
         <cd>9</cd>
         <cmc>500</cmc>

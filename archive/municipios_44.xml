@@ -71,7 +71,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ALBA DEL CAMPO</nm>
+      <nm>ALBA</nm>
       <locat>
         <cd>44</cd>
         <cmc>7</cmc>
@@ -401,7 +401,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BELMONTE SAN JOSE</nm>
+      <nm>BELMONTE DE SAN JOSE</nm>
       <locat>
         <cd>44</cd>
         <cmc>38</cmc>
@@ -984,7 +984,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FOZ CALANDA</nm>
+      <nm>FOZ-CALANDA</nm>
       <locat>
         <cd>44</cd>
         <cmc>112</cmc>
@@ -1666,7 +1666,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>NOGUERA</nm>
+      <nm>NOGUERA DE ALBARRACIN</nm>
       <locat>
         <cd>44</cd>
         <cmc>172</cmc>
@@ -2480,7 +2480,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLANUEVA DEL REBOLLAR</nm>
+      <nm>VILLANUEVA DEL REBOLLAR DE LA</nm>
       <locat>
         <cd>44</cd>
         <cmc>270</cmc>

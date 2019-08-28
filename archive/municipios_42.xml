@@ -280,7 +280,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BARAHONA</nm>
+      <nm>BARAONA</nm>
       <locat>
         <cd>42</cd>
         <cmc>47</cmc>
@@ -863,7 +863,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FUENTELMONJE</nm>
+      <nm>FUENTELMONGE</nm>
       <locat>
         <cd>42</cd>
         <cmc>142</cmc>
@@ -984,6 +984,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>LA LOSILLA</nm>
+      <locat>
+        <cd>42</cd>
+        <cmc>175</cmc>
+      </locat>
+      <loine>
+        <cp>42</cp>
+        <cm>106</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>LA POVEDA DE SORIA</nm>
       <locat>
         <cd>42</cd>
@@ -992,17 +1003,6 @@
       <loine>
         <cp>42</cp>
         <cm>141</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>LA QUIÑONERIA</nm>
-      <locat>
-        <cd>42</cd>
-        <cmc>241</cmc>
-      </locat>
-      <loine>
-        <cp>42</cp>
-        <cm>148</cm>
       </loine>
     </muni>
     <muni>
@@ -1069,17 +1069,6 @@
       <loine>
         <cp>42</cp>
         <cm>211</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>LOSILLA</nm>
-      <locat>
-        <cd>42</cd>
-        <cmc>175</cmc>
-      </locat>
-      <loine>
-        <cp>42</cp>
-        <cm>106</cm>
       </loine>
     </muni>
     <muni>
@@ -1391,6 +1380,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>QUIÑONERIA</nm>
+      <locat>
+        <cd>42</cd>
+        <cmc>241</cmc>
+      </locat>
+      <loine>
+        <cp>42</cp>
+        <cm>148</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>REBOLLAR</nm>
       <locat>
         <cd>42</cd>
@@ -1567,7 +1567,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SERON DE NAJIMA</nm>
+      <nm>SERON DE NAGIMA</nm>
       <locat>
         <cd>42</cd>
         <cmc>274</cmc>

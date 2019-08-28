@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <consulta_municipiero xmlns="http://www.catastro.meh.es/">
   <control>
-    <cumun>44</cumun>
+    <cumun>45</cumun>
   </control>
   <municipiero>
     <muni>
@@ -368,6 +368,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>SAN MARTIN DEL TESORILLO</nm>
+      <locat>
+        <cd>11</cd>
+        <cmc>45</cmc>
+      </locat>
+      <loine>
+        <cp>11</cp>
+        <cm>903</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>SAN ROQUE</nm>
       <locat>
         <cd>11</cd>
@@ -412,7 +423,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>TORRE-ALHAQUIME</nm>
+      <nm>TORRE ALHAQUIME</nm>
       <locat>
         <cd>11</cd>
         <cmc>36</cmc>
@@ -478,7 +489,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ZAHARA DE LA SIERRA</nm>
+      <nm>ZAHARA</nm>
       <locat>
         <cd>11</cd>
         <cmc>42</cmc>

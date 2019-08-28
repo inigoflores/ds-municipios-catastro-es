@@ -984,7 +984,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VALDEMANCO DEL ESTERA</nm>
+      <nm>VALDEMANCO DEL ESTERAS</nm>
       <locat>
         <cd>13</cd>
         <cmc>86</cmc>
@@ -1061,6 +1061,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>VILLANUEVA DE LOS INFANTES</nm>
+      <locat>
+        <cd>13</cd>
+        <cmc>93</cmc>
+      </locat>
+      <loine>
+        <cp>13</cp>
+        <cm>93</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>VILLANUEVA DE SAN CARLOS</nm>
       <locat>
         <cd>13</cd>
@@ -1069,17 +1080,6 @@
       <loine>
         <cp>13</cp>
         <cm>94</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>VILLANUEVA INFANTES</nm>
-      <locat>
-        <cd>13</cd>
-        <cmc>93</cmc>
-      </locat>
-      <loine>
-        <cp>13</cp>
-        <cm>93</cm>
       </loine>
     </muni>
     <muni>

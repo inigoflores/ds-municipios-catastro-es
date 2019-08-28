@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <consulta_municipiero xmlns="http://www.catastro.meh.es/">
   <control>
-    <cumun>79</cumun>
+    <cumun>80</cumun>
   </control>
   <municipiero>
     <muni>
@@ -500,6 +500,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>LA ZARZA - PERRUNAL</nm>
+      <locat>
+        <cd>21</cd>
+        <cmc>80</cmc>
+      </locat>
+      <loine>
+        <cp>21</cp>
+        <cm>902</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>LEPE</nm>
       <locat>
         <cd>21</cd>
@@ -522,6 +533,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>LOS MARINES</nm>
+      <locat>
+        <cd>21</cd>
+        <cmc>48</cmc>
+      </locat>
+      <loine>
+        <cp>21</cp>
+        <cm>48</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>LUCENA DEL PUERTO</nm>
       <locat>
         <cd>21</cd>
@@ -541,17 +563,6 @@
       <loine>
         <cp>21</cp>
         <cm>47</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>MARINES LOS</nm>
-      <locat>
-        <cd>21</cd>
-        <cmc>48</cmc>
-      </locat>
-      <loine>
-        <cp>21</cp>
-        <cm>48</cm>
       </loine>
     </muni>
     <muni>
@@ -687,7 +698,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SAN BARTOLOME TORRE</nm>
+      <nm>SAN BARTOLOME DE LA TORRE</nm>
       <locat>
         <cd>21</cd>
         <cmc>62</cmc>

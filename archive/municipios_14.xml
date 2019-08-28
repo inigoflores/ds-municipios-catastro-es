@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <consulta_municipiero xmlns="http://www.catastro.meh.es/">
   <control>
-    <cumun>75</cumun>
+    <cumun>77</cumun>
   </control>
   <municipiero>
     <muni>
@@ -16,7 +16,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>AGUILAR</nm>
+      <nm>AGUILAR DE LA FRONTERA</nm>
       <locat>
         <cd>14</cd>
         <cmc>2</cmc>
@@ -291,7 +291,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FERNAN NUÑEZ</nm>
+      <nm>FERNAN-NUÑEZ</nm>
       <locat>
         <cd>14</cd>
         <cmc>27</cmc>
@@ -299,6 +299,17 @@
       <loine>
         <cp>14</cp>
         <cm>27</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>FUENTE CARRETEROS</nm>
+      <locat>
+        <cd>14</cd>
+        <cmc>76</cmc>
+      </locat>
+      <loine>
+        <cp>14</cp>
+        <cm>901</cm>
       </loine>
     </muni>
     <muni>
@@ -335,7 +346,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>FUENTE TOJAR</nm>
+      <nm>FUENTE-TOJAR</nm>
       <locat>
         <cd>14</cd>
         <cmc>31</cmc>
@@ -420,6 +431,17 @@
       <loine>
         <cp>14</cp>
         <cm>32</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>LA GUIJARROSA</nm>
+      <locat>
+        <cd>14</cd>
+        <cmc>77</cmc>
+      </locat>
+      <loine>
+        <cp>14</cp>
+        <cm>902</cm>
       </loine>
     </muni>
     <muni>
@@ -599,7 +621,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PEÑARROYA PUEBLONUEVO</nm>
+      <nm>PEÑARROYA-PUEBLONUEVO</nm>
       <locat>
         <cd>14</cd>
         <cmc>52</cmc>

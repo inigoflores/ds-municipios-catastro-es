@@ -1336,6 +1336,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>HORTEZUELA DE OCEN</nm>
+      <locat>
+        <cd>19</cd>
+        <cmc>171</cmc>
+      </locat>
+      <loine>
+        <cp>19</cp>
+        <cm>145</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>HUERMECES DEL CERRO</nm>
       <locat>
         <cd>19</cd>
@@ -1369,7 +1380,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>HUMANES DE MOHERNANDO</nm>
+      <nm>HUMANES</nm>
       <locat>
         <cd>19</cd>
         <cmc>178</cmc>
@@ -1454,17 +1465,6 @@
       <loine>
         <cp>19</cp>
         <cm>52</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>LA HORTEZUELA DE OCEN</nm>
-      <locat>
-        <cd>19</cd>
-        <cmc>171</cmc>
-      </locat>
-      <loine>
-        <cp>19</cp>
-        <cm>145</cm>
       </loine>
     </muni>
     <muni>

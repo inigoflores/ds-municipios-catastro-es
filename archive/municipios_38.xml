@@ -159,6 +159,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>EL TANQUE</nm>
+      <locat>
+        <cd>38</cd>
+        <cmc>44</cmc>
+      </locat>
+      <loine>
+        <cp>38</cp>
+        <cm>44</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>FASNIA</nm>
       <locat>
         <cd>38</cd>
@@ -225,7 +236,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>GUIA ISORA</nm>
+      <nm>GUIA DE ISORA</nm>
       <locat>
         <cd>38</cd>
         <cmc>19</cmc>
@@ -277,17 +288,6 @@
       <loine>
         <cp>38</cp>
         <cm>18</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>LA LAGUNA</nm>
-      <locat>
-        <cd>38</cd>
-        <cmc>23</cmc>
-      </locat>
-      <loine>
-        <cp>38</cp>
-        <cm>23</cm>
       </loine>
     </muni>
     <muni>
@@ -401,6 +401,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>SAN CRISTOBAL DE LA LAGUNA</nm>
+      <locat>
+        <cd>38</cd>
+        <cmc>23</cmc>
+      </locat>
+      <loine>
+        <cp>38</cp>
+        <cm>23</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>SAN JUAN DE LA RAMBLA</nm>
       <locat>
         <cd>38</cd>
@@ -412,7 +423,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SAN MIGUEL</nm>
+      <nm>SAN MIGUEL DE ABONA</nm>
       <locat>
         <cd>38</cd>
         <cmc>35</cmc>
@@ -445,7 +456,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANTA CRUZ TENERIFE</nm>
+      <nm>SANTA CRUZ DE TENERIFE</nm>
       <locat>
         <cd>38</cd>
         <cmc>900</cmc>
@@ -497,17 +508,6 @@
       <loine>
         <cp>38</cp>
         <cm>43</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>TANQUE</nm>
-      <locat>
-        <cd>38</cd>
-        <cmc>44</cmc>
-      </locat>
-      <loine>
-        <cp>38</cp>
-        <cm>44</cm>
       </loine>
     </muni>
     <muni>
@@ -577,7 +577,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILAFLOR</nm>
+      <nm>VILAFLOR DE CHASNA</nm>
       <locat>
         <cd>38</cd>
         <cmc>52</cmc>

@@ -126,6 +126,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>AS PONTES DE GARCIA RODRIGUEZ</nm>
+      <locat>
+        <cd>15</cd>
+        <cmc>71</cmc>
+      </locat>
+      <loine>
+        <cp>15</cp>
+        <cm>70</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>AS SOMOZAS</nm>
       <locat>
         <cd>15</cd>
@@ -794,17 +805,6 @@
       <loine>
         <cp>15</cp>
         <cm>69</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>PONTES GARCIA RODRIGUEZ AS</nm>
-      <locat>
-        <cd>15</cd>
-        <cmc>71</cmc>
-      </locat>
-      <loine>
-        <cp>15</cp>
-        <cm>70</cm>
       </loine>
     </muni>
     <muni>

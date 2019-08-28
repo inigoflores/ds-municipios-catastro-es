@@ -126,17 +126,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>BARRACO</nm>
-      <locat>
-        <cd>5</cd>
-        <cmc>22</cmc>
-      </locat>
-      <loine>
-        <cp>5</cp>
-        <cm>22</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>BARROMAN</nm>
       <locat>
         <cd>5</cd>
@@ -423,7 +412,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CASTELLANOS DEL ZAPARDIEL</nm>
+      <nm>CASTELLANOS DE ZAPARDIEL</nm>
       <locat>
         <cd>5</cd>
         <cmc>56</cmc>
@@ -599,6 +588,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>EL BARRACO</nm>
+      <locat>
+        <cd>5</cd>
+        <cmc>22</cmc>
+      </locat>
+      <loine>
+        <cp>5</cp>
+        <cm>22</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>EL BOHODON</nm>
       <locat>
         <cd>5</cd>
@@ -618,17 +618,6 @@
       <loine>
         <cp>5</cp>
         <cm>76</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>EL HERRADON</nm>
-      <locat>
-        <cd>5</cd>
-        <cmc>93</cmc>
-      </locat>
-      <loine>
-        <cp>5</cp>
-        <cm>93</cm>
       </loine>
     </muni>
     <muni>
@@ -654,7 +643,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>EL LOSAR</nm>
+      <nm>EL LOSAR DEL BARCO</nm>
       <locat>
         <cd>5</cd>
         <cmc>112</cmc>
@@ -830,6 +819,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>GIL GARCIA</nm>
+      <locat>
+        <cd>5</cd>
+        <cmc>85</cmc>
+      </locat>
+      <loine>
+        <cp>5</cp>
+        <cm>85</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>GILBUENA</nm>
       <locat>
         <cd>5</cd>
@@ -838,17 +838,6 @@
       <loine>
         <cp>5</cp>
         <cm>84</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>GILGARCIA</nm>
-      <locat>
-        <cd>5</cd>
-        <cmc>85</cmc>
-      </locat>
-      <loine>
-        <cp>5</cp>
-        <cm>85</cm>
       </loine>
     </muni>
     <muni>
@@ -896,7 +885,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>GUTIERRE MUÑOZ</nm>
+      <nm>GUTIERRE-MUÑOZ</nm>
       <locat>
         <cd>5</cd>
         <cmc>90</cmc>
@@ -918,7 +907,18 @@
       </loine>
     </muni>
     <muni>
-      <nm>HERRERO DE SUSO</nm>
+      <nm>HERRADON DE PINARES</nm>
+      <locat>
+        <cd>5</cd>
+        <cmc>93</cmc>
+      </locat>
+      <loine>
+        <cp>5</cp>
+        <cm>93</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>HERREROS DE SUSO</nm>
       <locat>
         <cd>5</cd>
         <cmc>94</cmc>
@@ -1226,7 +1226,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>MANJABALAGO Y ORTIGOSA RIOALMA</nm>
+      <nm>MANJABALAGO Y ORTIGOSA DE RIOA</nm>
       <locat>
         <cd>5</cd>
         <cmc>119</cmc>
@@ -1853,7 +1853,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>PEDRO RODRIGUEZ</nm>
+      <nm>PEDRO-RODRIGUEZ</nm>
       <locat>
         <cd>5</cd>
         <cmc>183</cmc>
@@ -2348,17 +2348,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>SANTIAGO DE TORMES</nm>
-      <locat>
-        <cd>5</cd>
-        <cmc>273</cmc>
-      </locat>
-      <loine>
-        <cp>5</cp>
-        <cm>904</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>SANTIAGO DEL COLLADO</nm>
       <locat>
         <cd>5</cd>
@@ -2367,6 +2356,17 @@
       <loine>
         <cp>5</cp>
         <cm>228</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>SANTIAGO DEL TORMES</nm>
+      <locat>
+        <cd>5</cd>
+        <cmc>273</cmc>
+      </locat>
+      <loine>
+        <cp>5</cp>
+        <cm>904</cm>
       </loine>
     </muni>
     <muni>

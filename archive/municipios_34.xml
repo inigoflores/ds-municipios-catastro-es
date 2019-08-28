@@ -5,7 +5,7 @@
   </control>
   <municipiero>
     <muni>
-      <nm>ABARCA</nm>
+      <nm>ABARCA DE CAMPOS</nm>
       <locat>
         <cd>34</cd>
         <cmc>1</cmc>
@@ -808,6 +808,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>LA VID DE OJEDA</nm>
+      <locat>
+        <cd>34</cd>
+        <cmc>93</cmc>
+      </locat>
+      <loine>
+        <cp>34</cp>
+        <cm>93</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>LAGARTOS</nm>
       <locat>
         <cd>34</cd>
@@ -827,17 +838,6 @@
       <loine>
         <cp>34</cp>
         <cm>92</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>LAVID DE OJEDA</nm>
-      <locat>
-        <cd>34</cd>
-        <cmc>93</cmc>
-      </locat>
-      <loine>
-        <cp>34</cp>
-        <cm>93</cm>
       </loine>
     </muni>
     <muni>
@@ -874,7 +874,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>MAGAZ</nm>
+      <nm>MAGAZ DE PISUERGA</nm>
       <locat>
         <cd>34</cd>
         <cmc>98</cmc>
@@ -1556,7 +1556,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>TAMARA</nm>
+      <nm>TAMARA DE CAMPOS</nm>
       <locat>
         <cd>34</cd>
         <cmc>180</cmc>
@@ -1567,7 +1567,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>TARIEGO</nm>
+      <nm>TARIEGO DE CERRATO</nm>
       <locat>
         <cd>34</cd>
         <cmc>181</cmc>
@@ -1622,7 +1622,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VALDE UCIEZA</nm>
+      <nm>VALDE-UCIEZA</nm>
       <locat>
         <cd>34</cd>
         <cmc>192</cmc>
@@ -1666,7 +1666,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VALLE RETORTILLO</nm>
+      <nm>VALLE DEL RETORTILLO</nm>
       <locat>
         <cd>34</cd>
         <cmc>219</cmc>
@@ -1688,7 +1688,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VENTA BAÑOS</nm>
+      <nm>VENTA DE BAÑOS</nm>
       <locat>
         <cd>34</cd>
         <cmc>23</cmc>
@@ -1710,7 +1710,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLABASTA</nm>
+      <nm>VILLABASTA DE VALDAVIA</nm>
       <locat>
         <cd>34</cd>
         <cmc>202</cmc>
@@ -2040,7 +2040,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>VILLERIAS</nm>
+      <nm>VILLERIAS DE CAMPOS</nm>
       <locat>
         <cd>34</cd>
         <cmc>241</cmc>

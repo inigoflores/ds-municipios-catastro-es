@@ -82,7 +82,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>ALDEAEN CABO</nm>
+      <nm>ALDEA EN CABO</nm>
       <locat>
         <cd>45</cd>
         <cmc>8</cmc>
@@ -321,6 +321,17 @@
       <loine>
         <cp>45</cp>
         <cm>29</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>CALZADA DE OROPESA</nm>
+      <locat>
+        <cd>45</cd>
+        <cmc>30</cmc>
+      </locat>
+      <loine>
+        <cp>45</cp>
+        <cm>30</cm>
       </loine>
     </muni>
     <muni>
@@ -874,17 +885,6 @@
       </loine>
     </muni>
     <muni>
-      <nm>LA CALZADA DE OROPESA</nm>
-      <locat>
-        <cd>45</cd>
-        <cmc>30</cmc>
-      </locat>
-      <loine>
-        <cp>45</cp>
-        <cm>30</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>LA ESTRELLA</nm>
       <locat>
         <cd>45</cd>
@@ -907,7 +907,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>LA IGLESUELA</nm>
+      <nm>LA IGLESUELA DEL TIETAR</nm>
       <locat>
         <cd>45</cd>
         <cmc>80</cmc>
@@ -1688,7 +1688,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>RETAMOSO</nm>
+      <nm>RETAMOSO DE LA JARA</nm>
       <locat>
         <cd>45</cd>
         <cmc>147</cmc>

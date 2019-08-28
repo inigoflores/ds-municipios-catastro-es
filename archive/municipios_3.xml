@@ -5,17 +5,6 @@
   </control>
   <municipiero>
     <muni>
-      <nm>ADSUBIA</nm>
-      <locat>
-        <cd>3</cd>
-        <cmc>1</cmc>
-      </locat>
-      <loine>
-        <cp>3</cp>
-        <cm>1</cm>
-      </loine>
-    </muni>
-    <muni>
       <nm>AGOST</nm>
       <locat>
         <cd>3</cd>
@@ -434,7 +423,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>BENITACHELL / EL POBLE NOU</nm>
+      <nm>BENITACHELL/EL POBLE NOU DE BE</nm>
       <locat>
         <cd>3</cd>
         <cmc>42</cmc>
@@ -522,7 +511,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>CAMPO DE MIRRA / EL CAMP DE MI</nm>
+      <nm>CAMPO DE MIRRA/EL CAMP DE MIRR</nm>
       <locat>
         <cd>3</cd>
         <cmc>51</cmc>
@@ -687,7 +676,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>EL FONDO DE LES NEUS / HONDON</nm>
+      <nm>EL FONDO DE LES NEUS/HONDON DE</nm>
       <locat>
         <cd>3</cd>
         <cmc>77</cmc>
@@ -937,6 +926,17 @@
       <loine>
         <cp>3</cp>
         <cm>17</cm>
+      </loine>
+    </muni>
+    <muni>
+      <nm>L'ATZUBIA</nm>
+      <locat>
+        <cd>3</cd>
+        <cmc>1</cmc>
+      </locat>
+      <loine>
+        <cp>3</cp>
+        <cm>1</cm>
       </loine>
     </muni>
     <muni>
@@ -1358,7 +1358,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>SAN VICENTE DEL RASPEIG / SANT</nm>
+      <nm>SAN VICENTE DEL RASPEIG/SANT V</nm>
       <locat>
         <cd>3</cd>
         <cmc>122</cmc>
@@ -1490,7 +1490,7 @@
       </loine>
     </muni>
     <muni>
-      <nm>TORREMANZANAS / LA TORRE DE</nm>
+      <nm>TORREMANZANAS/LA TORRE DE LES</nm>
       <locat>
         <cd>3</cd>
         <cmc>132</cmc>
