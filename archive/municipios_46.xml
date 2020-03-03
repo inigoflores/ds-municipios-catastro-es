@@ -1193,6 +1193,17 @@
       </loine>
     </muni>
     <muni>
+      <nm>EL GENOVES</nm>
+      <locat>
+        <cd>46</cd>
+        <cmc>134</cmc>
+      </locat>
+      <loine>
+        <cp>46</cp>
+        <cm>132</cm>
+      </loine>
+    </muni>
+    <muni>
       <nm>EL PALOMAR</nm>
       <locat>
         <cd>46</cd>
@@ -1366,17 +1377,6 @@
       <loine>
         <cp>46</cp>
         <cm>130</cm>
-      </loine>
-    </muni>
-    <muni>
-      <nm>GENOVES</nm>
-      <locat>
-        <cd>46</cd>
-        <cmc>134</cmc>
-      </locat>
-      <loine>
-        <cp>46</cp>
-        <cm>132</cm>
       </loine>
     </muni>
     <muni>
